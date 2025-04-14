@@ -1,5 +1,15 @@
 ## Hello world 👋
 
+Current projects:
+- [Showrunner](https://showrunner.tech/)
+- [ICDCodes.ai](https://icdcodes.ai/)
+- [Logicly.ai](https://www.logicly.ai/)
+- [WithLuv](https://www.sendwithluv.com/)
+- [Sway](https://sway-ten.vercel.app/)
+
+And some other stealth/earlier stage stuff.
+
+
 <!--
 **tteltrab/tteltrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
