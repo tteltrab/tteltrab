@@ -1,26 +1,11 @@
-## Hello world 👋
+## Hello World, I'm Nick 👋
 
-Current projects:
-- [Showrunner](https://showrunner.tech/)
-- [ICDCodes.ai](https://icdcodes.ai/)
-- [Logicly.ai](https://www.logicly.ai/)
-- [WithLuv](https://www.sendwithluv.com/)
-- [Sway](https://sway-ten.vercel.app/)
+Builder. 0→1 specialist. Currently Co-Founder & CTO at [Showrunner](https://showrunner.com).
 
-And some other stealth/earlier stage stuff.
+**Recent work:**
+- [ICDCodes.ai](https://icdcodes.ai) — Solo-built AI medical coding tool. 100K+ returning users, 275M+ organic impressions.
+- [Showrunner](https://showrunner.com) — AI-powered filmtech. NAB Product of the Year 2023.
 
+**Previously:** Ironhack (VP Product), Trilogy ($750M exit), IBM
 
-<!--
-**tteltrab/tteltrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building something new soon. Stay tuned.
